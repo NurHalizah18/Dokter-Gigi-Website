@@ -66,7 +66,7 @@ if (isset($_POST['submit'])) {
                 <input type="password" placeholder="Confirm Password" name="cpass" value="<?php echo $_POST['cpass']; ?>" required>
             </div>
             <div class="input">
-                <button name="submit" class="btn"> Login </button>
+                <button name="submit" class="btn"> Register </button>
             </div>
             <p class="login-register">Have an Account? 
                 <a href="login.php"> Login </a>
